@@ -8,6 +8,7 @@ This is a simple project that contain some of the tools used in the class. For e
 - Git pull
 - Git forking
 - Git pull requests
+- Git issues
 - .gitignore
 - Git with commit message in Commitizen convention ([https://commitizen.github.io/cz-cli/](https://commitizen.github.io/cz-cli/)).
 - Makefile
